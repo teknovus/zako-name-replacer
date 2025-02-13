@@ -32,7 +32,6 @@
         ['Main Ticket Name', 'Your Name'],
         ['Not your last name', 'Your last name'],
         ['Not your first name', 'Your first name'],
-        ['Matthew Johnson', 'Joshua Hu'],
     ]);
 
     function replaceText(node) {
