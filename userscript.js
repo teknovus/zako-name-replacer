@@ -5,7 +5,7 @@
 // @description  Replace the name on main tickets on zaiko
 // @author       Tekno
 // @supportURL   .tekno on discord
-// @match        *://zaiko.io/*
+// @match        *://*.zaiko.io/*
 // @run-at       document-start
 // @grant        GM_addStyle
 // @downloadURL  https://raw.githubusercontent.com/teknovus/zako-name-replacer/refs/heads/main/userscript.js
